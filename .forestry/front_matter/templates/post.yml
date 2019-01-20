@@ -12,11 +12,6 @@ fields:
   label: Sub Heading
   name: sub_heading
   default: ''
-- name: date
-  label: Publish Date
-  type: datetime
-  hidden: false
-  default: ''
 - name: tags
   label: Tags
   type: tag_list
